@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "297269423808",
+    "project_id": "jobkar-user",
+    "storage_bucket": "jobkar-user.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297269423808:android:240e0bd6584300779f4725",
+        "android_client_info": {
+          "package_name": "com.jobkar.hiredge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297269423808-o9kav98k3oh58d97jtkg4ii4or6oc6nr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA810RVgO9pu2w4qwiyOjbzkwIorJ6TwZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297269423808-o9kav98k3oh58d97jtkg4ii4or6oc6nr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297269423808:android:f04ae7c18e2152d29f4725",
+        "android_client_info": {
+          "package_name": "com.jobkar.jobkar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297269423808-o9kav98k3oh58d97jtkg4ii4or6oc6nr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA810RVgO9pu2w4qwiyOjbzkwIorJ6TwZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297269423808-o9kav98k3oh58d97jtkg4ii4or6oc6nr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
